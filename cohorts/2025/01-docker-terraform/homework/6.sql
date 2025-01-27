@@ -1,3 +1,4 @@
+-- Answer 6
 SELECT
  date(g.lpep_pickup_datetime),
  zdo."Zone",
